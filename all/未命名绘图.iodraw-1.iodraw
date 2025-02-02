@@ -74,10 +74,10 @@
         <mxCell id="rrDCez5uQDZAo6GaZv_B-21" value="&lt;div&gt;Intensity calibration&lt;/div&gt;" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="380" width="159" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rrDCez5uQDZAo6GaZv_B-22" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.506;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="rrDCez5uQDZAo6GaZv_B-16">
+        <mxCell id="rrDCez5uQDZAo6GaZv_B-22" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;exitX=0.506;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="rrDCez5uQDZAo6GaZv_B-16">
           <mxGeometry width="100" height="100" as="geometry">
             <mxPoint x="565.5" y="590" as="sourcePoint" />
-            <mxPoint x="570.5" y="640" as="targetPoint" />
+            <mxPoint x="320" y="615" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rrDCez5uQDZAo6GaZv_B-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.905;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.095;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="rrDCez5uQDZAo6GaZv_B-3" target="rrDCez5uQDZAo6GaZv_B-15">
@@ -85,12 +85,12 @@
         </mxCell>
         <mxCell id="rrDCez5uQDZAo6GaZv_B-26" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;exitX=0.905;exitY=0.5;exitPerimeter=0;fontStyle=1;strokeColor=#003366;strokeWidth=1;html=1;" edge="1" parent="1">
           <mxGeometry width="100" height="100" as="geometry">
-            <mxPoint x="670.005" y="684.5" as="sourcePoint" />
-            <mxPoint x="765.61" y="684.5" as="targetPoint" />
+            <mxPoint x="414.995" y="684.5" as="sourcePoint" />
+            <mxPoint x="510.6" y="684.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rrDCez5uQDZAo6GaZv_B-27" value="Reconstructed&amp;nbsp; images" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;fillColor=default;gradientColor=none;gradientDirection=north;" vertex="1" parent="1">
-          <mxGeometry x="770" y="655" width="120" height="60" as="geometry" />
+          <mxGeometry x="514.99" y="655" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
