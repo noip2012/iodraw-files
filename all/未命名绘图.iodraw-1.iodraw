@@ -57,7 +57,7 @@
             <mxPoint x="330" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rrDCez5uQDZAo6GaZv_B-15" value="generate covariance&amp;nbsp;&lt;div&gt;matrix to&amp;nbsp;&lt;/div&gt;&lt;div&gt;decompose PSF&lt;/div&gt;" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
+        <mxCell id="rrDCez5uQDZAo6GaZv_B-15" value="generate covariance&amp;nbsp;&lt;div&gt;matrixs to&amp;nbsp;&lt;/div&gt;&lt;div&gt;decompose PSF&lt;/div&gt;" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="130" width="159" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rrDCez5uQDZAo6GaZv_B-16" value="&lt;div&gt;Denoising&lt;/div&gt;" style="shape=mxgraph.flowchart.data;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
@@ -109,6 +109,12 @@
         </mxCell>
         <mxCell id="rrDCez5uQDZAo6GaZv_B-27" value="Reconstructed&amp;nbsp; images" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;fillColor=default;gradientColor=none;gradientDirection=north;" vertex="1" parent="1">
           <mxGeometry x="770" y="655" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rrDCez5uQDZAo6GaZv_B-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.905;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.095;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="394" y="180" as="sourcePoint" />
+            <mxPoint x="515" y="180" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
