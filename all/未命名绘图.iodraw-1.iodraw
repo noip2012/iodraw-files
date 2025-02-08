@@ -92,6 +92,9 @@
         <mxCell id="rrDCez5uQDZAo6GaZv_B-27" value="Reconstructed&amp;nbsp; images" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;fillColor=default;gradientColor=none;gradientDirection=north;" parent="1" vertex="1">
           <mxGeometry x="514.99" y="655" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="feLhC7beZAIRicb8DsgM-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="795" y="388" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
