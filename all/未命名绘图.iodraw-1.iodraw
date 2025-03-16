@@ -7,6 +7,9 @@
         <mxCell id="P_mlKcFyEBcp2OgEGDTp-1" value="研究方向" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="140" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="P_mlKcFyEBcp2OgEGDTp-2" value="&lt;font face=&quot;黑体&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;u&gt;超紧凑衍射型高光谱成像技术&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="140" width="416" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
